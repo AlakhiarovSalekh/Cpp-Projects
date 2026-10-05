@@ -12,14 +12,14 @@ This is a comprehensive collection of C++ projects, covering a wide range of top
 <br>
 
 ## Makefile (Optional)
-For projects that manage multiple source files (`Data Structures II`), a custom Makefile is included.
+For projects that manage multiple source files, a Makefile is included inside the individual project directory (for example `data_structures-II/06-BST/Makefile`). Run `make` from the directory that contains that Makefile.
 
 ### Requirements:
 - **Compiler**: g++ or clang++ (`macOS typically includes clang++`)
 - **Windows users**: Install [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) for access to both compilers, or [MinGW](https://www.mingw-w64.org/) for g++
 
 ### Build/Run/Clean:
-To build, run, or clean projects using this Makefile, execute the following commands:
+First change into a project directory that contains a `Makefile`, then execute:
 
 ```bash
 make
