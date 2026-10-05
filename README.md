@@ -125,6 +125,12 @@ The material is grouped into four progressive tracks:
 
 Issues and focused pull requests that improve correctness, portability, documentation, or examples are welcome.
 
+## More Projects by Salekh
+
+- [C Projects](https://github.com/AlakhiarovSalekh/C-Projects) — systems programming, networking, compilers, cryptography, and command-line tools in C.
+- [Expense Tracker C++](https://github.com/AlakhiarovSalekh/Expense-Tracker-Project) — console and Qt expense-tracking implementations.
+- [Parking Lot System](https://github.com/AlakhiarovSalekh/Parking-Lot-System) — Java OOP parking-lot system design.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
