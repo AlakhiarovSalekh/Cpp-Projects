@@ -125,6 +125,8 @@ The material is grouped into four progressive tracks:
 
 Issues and focused pull requests that improve correctness, portability, documentation, or examples are welcome.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [C Projects](https://github.com/AlakhiarovSalekh/C-Projects) — systems programming, networking, compilers, cryptography, and command-line tools in C.
