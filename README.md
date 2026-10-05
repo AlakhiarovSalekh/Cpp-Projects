@@ -1,9 +1,11 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b2686d21dc134cd2ae07194660b2f0b0)](https://app.codacy.com/gh/nragland37/cpp-projects/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nragland37/cpp-projects/blob/main/LICENSE)
+# C++ Projects & Data Structures
 
-# <p align="center"> Hello, World! 🦖 </p>
+[![C++](https://img.shields.io/badge/C%2B%2B-Learning%20Projects-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![License](https://img.shields.io/github/license/AlakhiarovSalekh/Cpp-Projects)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/AlakhiarovSalekh/Cpp-Projects?style=social)](https://github.com/AlakhiarovSalekh/Cpp-Projects/stargazers)
 
-/*
+A structured C++ learning collection spanning programming fundamentals, object-oriented programming, memory management, classic data structures, recursion, hashing, trees, heaps, compression, sorting, and graph algorithms.
+
 
 This is a comprehensive collection of C++ projects, covering a wide range of topics from the basic `Hello World` to advanced `Self-Balancing AVL Trees`, and everything in between.
 
@@ -29,10 +31,18 @@ make run
 make clean
 ```
 
-*/
 
 
-### [Programming I](/programming-I)
+## Repository map
+
+The material is grouped into four progressive tracks:
+
+- **Programming I** — core syntax, functions, arrays, and introductory problem solving
+- **Programming II** — pointers, memory, strings, structures, files, classes, and headers
+- **Data Structures I** — templates, lists, stacks, queues, and operator overloading
+- **Data Structures II** — recursion, hashing, trees, heaps, compression, sorting, and graphs
+
+### [Programming I](./programming-I)
 * [Documents](programming-I/docs/)
 
 | # | Project |
@@ -52,7 +62,7 @@ make clean
 
 <br>
 
-### [Programming II](/programming-II)
+### [Programming II](./programming-II)
 * [Documents](programming-II/docs/)
 
 | # | Project |
@@ -71,7 +81,7 @@ make clean
 
 <br>
 
-### [Data Structures I](/data_structures-I)
+### [Data Structures I](./data_structures-I)
 * [Documents](data_structures-I/docs/)
 
 | # | Project |
@@ -92,7 +102,7 @@ make clean
 
 <br>
 
-### [Data Structures II](/data_structures-II)
+### [Data Structures II](./data_structures-II)
 * [Documents](data_structures-II/docs/)
 
 | # | Project |
@@ -109,3 +119,16 @@ make clean
 | 10 | [Array List Sorting Algorithms: Quick-Sort & Selection-Sort](./data_structures-II/10-AList-Sorting-Algorithms) |
 | 11 | [Array List Sorting Algorithms (Continued): Heap-Sort](./data_structures-II/11-Updated-AList-Sorting-Algorithms) |
 | 12 | [Graph Algorithms: Dijkstra's Shortest Path, Depth-First Search, & Breadth-First Search](./data_structures-II/12-Graph-Traversal) |
+
+
+## Contributing
+
+Issues and focused pull requests that improve correctness, portability, documentation, or examples are welcome.
+
+## Author
+
+**Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
+
+## License
+
+See [LICENSE](LICENSE).
