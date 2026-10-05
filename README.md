@@ -1,4 +1,4 @@
-# C++ Projects & Data Structures
+# C++ Projects — Data Structures, Algorithms & OOP
 
 [![C++](https://img.shields.io/badge/C%2B%2B-Learning%20Projects-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![License](https://img.shields.io/github/license/AlakhiarovSalekh/Cpp-Projects)](LICENSE)
